@@ -1,5 +1,5 @@
 //
-//  AchievementDetailSheet.swift
+//  AchievementDetailsView.swift
 //  MedalCase
 //
 //  Created by Tindwende Thierry Sawadogo on 7/14/26.
