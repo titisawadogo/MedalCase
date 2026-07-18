@@ -44,8 +44,7 @@ struct AchievementDetailsView: View {
             Spacer()
             
             if achievement.isEarned {
-                Button
-                {} label: {
+                ShareLink (item: "Check out the medal i got for: \(achievement.title)") {
                     HStack {
                         Text("Share")
                         Image(systemName: "square.and.arrow.up")
